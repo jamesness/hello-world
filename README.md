@@ -1,2 +1,2 @@
 # hello-world
-Getting accustomed to git and github
+I'm just this guy, you know?
